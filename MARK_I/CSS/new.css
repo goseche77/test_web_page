@@ -1,3 +1,60 @@
- div {
+.h1{
+    
+    position: relative;
+    text-align: center;
+    border: 3px solid black;
+    padding-block: 30px;
+    height: 40px;
+    width: 1200px;
+    background-color: rgb(127, 144, 255);
+}
+
+.texto{
+    
+    position: relative;
+    text-align: center;
+    border: 3px solid black;
+    padding-block: 30px;
+    height: 40px;
+    width: 1200px;
+    background-color: rgb(127, 144, 255);
+
+}
+
+.test{
+
+    position: relative;
+    text-align: center;
+    border: 5px solid black;
+    padding-block: 40px;
+    left: 170px;
+    width: 850px;
+    height: 40px;
+    background-color: rgba(255, 0, 0, 0.457)
+
+}
+
+.test2 {
+
+    position: relative;
+    text-align: center;
+    border: 5px solid black;
+    padding-block: 50px;
+    left: 200px;
+    height: 40px;
+    width: 1000px;
+    background-color: rgba(255, 0, 0, 0.457)
+}
+
+/* #Para identificar que es la parte del backgroud de la imagen# */
+
+.back{
+
+    position: absolute;
+    padding-bottom: 30px;
+    background-repeat: repeat;
+    background-image: url(./neutral.png)
+    
+    
 
 }
